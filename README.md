@@ -11,3 +11,5 @@ For new members:
 * sync your local repository with github (git pull)
 * Create your own branch
 * Add to MemberList.txt your name
+
+Let's try to have an error
