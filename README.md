@@ -10,8 +10,4 @@ For new members:
 ## 2nd Exercise:
 * sync your local repository with github (git pull)
 * Create your own branch
-* Add to MemberList.txt your name
-
-Let's try to have an error
-
-Let's have a 2nd error
+* update Your_Name.txt with a message
