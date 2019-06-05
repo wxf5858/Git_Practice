@@ -1,2 +1,3 @@
 Members:
 - Saul Trujillo
+- member 02 (test02)
