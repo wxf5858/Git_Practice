@@ -13,4 +13,5 @@ For new members:
 * Add to MemberList.txt your name
 
 Let's try to have an error
+
 Let's have a 2nd error
